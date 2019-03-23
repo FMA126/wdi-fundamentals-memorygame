@@ -97,3 +97,12 @@ footer {
     float: left;
     margin: 20px 25px
 }
+button {
+    display: block;
+    margin: 50px auto;
+}
+#outcome-score p{
+    margin: 0 auto;
+    text-align: center;
+    
+}
